@@ -7,3 +7,5 @@ Sistema desenvolvido em Java para monitoramento e controle de estufas agrícolas
 - Antonio Dal Bem
 - Lorenzo Bueno
 - Lucas Guedes
+
+**Data:** Novembro de 2025
